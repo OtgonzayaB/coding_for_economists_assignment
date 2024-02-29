@@ -13,5 +13,5 @@ height: height in meters
 hhincome: total yearly household income in thousand current US dollars, referring to year before interview
 
 ### Analysis:
-In this project, I have analyzed the body height and household income distribution by gender. 
+In this project, I conducted an analysis of the distribution of body height and household income by gender using Python, and examined the relationship between household income and body weight using Stata.
 
