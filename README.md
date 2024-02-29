@@ -1,8 +1,8 @@
 # Project: Body height and household income distribution
 
+### Source: 
 
-### Source: This data is from the public release longitudinal RAND-HRS datafile, which is a single (wide format) xt panel data table with the most important public-use variables from the HRS.
-
+This data is from the public release longitudinal RAND-HRS datafile, which is a single (wide format) xt panel data table with the most important public-use variables from the HRS.
 
 ### Data Documentation:
 
